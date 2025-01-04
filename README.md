@@ -1,6 +1,8 @@
-# intro_slider
+# Flutter-Onboarding-Slider
+I have created a nice and sleek three screen onboarding slider in this repo. <br>
+<i>Enjoy and give me a star please if you like it.<i><br>
+<b>Author - Muhammad Jabbar (MJ Digital Solutions)<b>
 
-A new Flutter project.
 
 ## Getting Started
 
